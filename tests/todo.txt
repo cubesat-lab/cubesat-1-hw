@@ -1,0 +1,2 @@
+x (A) Create @tests folder
+x (B) Create todo.txt file

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.kicad_pro": "json",
+        "*.kicad_prl": "json",
+        "*.kicad_mod": "lisp",
+        "*.kicad_pcb": "lisp",
+        "*.kicad_sch": "lisp",
+        "*.kicad_sym": "lisp",
+        "*-lib-table": "lisp",
+    }
+}

@@ -1,0 +1,2 @@
+x (A) Create @mechanical folder
+x (B) Create todo.txt file

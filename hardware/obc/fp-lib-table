@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TESEO-LIV3F")(type "KiCad")(uri "${KIPRJMOD}/../libraries/TESEO-LIV3F")(options "")(descr ""))
+  (lib (name "ESQ-126-39-G-D")(type "KiCad")(uri "${KIPRJMOD}/../libraries/ESQ-126-39-G-D")(options "")(descr ""))
+)

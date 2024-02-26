@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CY15B102QN-50SXE")(type "KiCad")(uri "${KIPRJMOD}/../libraries/CY15B102QN-50SXE/CY15B102QN-50SXE.kicad_sym")(options "")(descr ""))
+  (lib (name "TESEO-LIV3F")(type "KiCad")(uri "${KIPRJMOD}/../libraries/TESEO-LIV3F/TESEO-LIV3F.kicad_sym")(options "")(descr ""))
+  (lib (name "ESQ-126-39-G-D")(type "KiCad")(uri "${KIPRJMOD}/../libraries/ESQ-126-39-G-D/ESQ-126-39-G-D.kicad_sym")(options "")(descr ""))
+)
